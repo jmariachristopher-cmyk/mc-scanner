@@ -1,0 +1,10 @@
+# Edit this list whenever you want to add/remove stocks.
+DEFAULT_SYMBOLS = [
+    "ASTRAL", "CONCOR", "KALYANKJIL", "GODREJCP", "BDL",
+    "PAYTM", "JUBLFOOD", "BEL", "TECHM", "SHRIRAMFIN",
+    "TATAPOWER", "DLF", "NTPC", "ITC", "PFC", "SWIGGY",
+    "KOTAKBANK", "BHARTIARTL", "MCX", "RECLTD", "SBIN",
+    "COALINDIA", "HDFCBANK", "INDUSTOWER", "BPCL", "LICI",
+    "INFY", "POWERGRID", "BSE", "ADANIENSOL", "AXISBANK",
+    "HINDZINC", "RELIANCE", "ICICIBANK", "SBICARD"
+]
